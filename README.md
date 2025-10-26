@@ -6,19 +6,19 @@ I worked on the modelling for our award-winning [Bat Lands](https://www.reuters.
 
 I mostly code in Python, but I have also spent a lot of time in R, and in graduate school we worked in Stata. I'm happy to pick up new languages as needed. I have more training in statistical methods than most journalists, and I still love a good spreadsheet and pivot table.
 
-Investigative work
+## Investigative work
 
 For [The Bat Lands](https://www.reuters.com/investigates/special-report/global-pandemic-bats-jumpzones/), we modelled the risk that new pandemics will come from bats, as my colleagues fanned out to understand what was happening in high risk areas all over the world. The project won awards from the Overseas Press club, the Online News Association and the Society of Environmental Journalists. Read more about our methods [here](https://www.reuters.com/investigates/special-report/global-pandemic-bats-methodology/).
 
 I have also published on [ammunition shortages in Ukraine](https://www.reuters.com/investigates/special-report/ukraine-crisis-artillery/), [methane](https://www.reuters.com/markets/commodities/pemex-platform-mexico-leaked-clouds-methane-even-after-un-alert-data-shows-2024-02-09/) [leaks](https://www.reuters.com/business/environment/mexicos-pemex-put-off-repairs-despite-vast-methane-leaks-documents-sources-2024-03-22/), [COVID test shortages in Africa](https://www.reuters.com/investigates/special-report/health-coronavirus-africa-cepheid/), [patient deaths](https://www.reuters.com/article/world/deaths-bad-outcomes-elude-scrutiny-at-canadas-indigenous-clinics-idUSKBN1X3155/) at the clinics that serve remote indigenous communities, Mexico's biggest [gold mine](https://www.reuters.com/article/business/exclusive-goldcorp-struggles-with-leak-at-mexican-mine-idUSKCN10Z1YN/), how the pharmaceutical industry [responded](https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-offer-canada-c1-billion-scrap-some-pending-pricing-rules-2020-11-15/) to proposed drug price rules in Canada, and [train derailments](https://www.reuters.com/article/business/exclusive-cn-rail-derailment-numbers-soared-before-recent-crashes-idUSKBN0MJ0AZ/).
 
-Beat reporting
+## Beat reporting
 
 As a company news reporter, I covered retailers, airlines, auto manufacturing, railways, mining, steel and aluminum companies, and labour unions, at various times. 
 
 I covered the early months of the COVID pandemic in Canada, and then helped our global pharmaceutical team report on the development and manufacturing of tests and vaccines around the world.
 
-Background
+## Background
 
 I attended the University of Toronto, and reported for [The Varsity](https://thevarsity.ca/). I planned to major in international relations and urban studies, but I go interested in econometrics (statistics for economists) and ended up picking up an economics major.
 
